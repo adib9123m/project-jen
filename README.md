@@ -1,11 +1,5 @@
 # Gift Shop
 
-## Deployment
-
-- Checkout deployment at <https://gagandeep39.github.io/gift-shop-monolithic/>
-
-## Screenshots
-
 ### Auth
 
 ![Login](./screenshots/login.png)
@@ -41,9 +35,6 @@
 ![View Category](./screenshots/admin_category.png)
 ![View Products](./screenshots/admin_product.png)
 
-## Microservice Code
-
-- Refer link for Microservice Architecture <https://github.com/Gagandeep39/gift-shop/>
 
 ## GH Pages Issue
 
